@@ -1,0 +1,24 @@
+table {
+    width : 100%;
+}
+
+/* td {
+    border: 2px solid #000000;
+} */
+
+td {
+    width: 70px;
+}
+
+.Power {
+    background-color: pink;
+}
+
+.Advancement-Odd {
+    background-color: antiquewhite;
+}
+
+.Advancement-Even {
+    background-color: khaki;
+
+}
