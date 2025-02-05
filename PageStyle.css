@@ -42,6 +42,30 @@ td {
     background-color: rgba(127, 255, 212, 0.600);
 }
 
+.Magic-Progression-Stage-Head {
+    background-color: blanchedalmond;
+    width: 30%;
+    height: 40px;
+}
+.Magic-Progression-Explanation-Head {
+    background-color: cornflowerblue;
+    width: 70%;
+    height: 40px;
+}
+
+.Magic-Progression-Stage {
+    background-color: rgba(255, 235, 205, 0.600);
+    width: 30%;
+    height: 25px;
+}
+.Magic-Progression-Explanation {
+    background-color: rgba(100, 148, 237, 0.600);
+    width: 70%;
+    height: 25px;
+    padding-left: 5px;
+}
+
+
 .magicians-aim {
     border-width:3px;
     border-style:solid;
